@@ -1,13 +1,21 @@
-'''>ls'''
+```
+|>ls
+```
 "Bah"
 
-'''>ls -lF'''
+```
+|>ls -lF
+```
 "Blast"
 
-'''>ls -l | gre[ gem'''
+```
+|>ls -l | gre[ gem
+```
 "Darned keyboard!"
 
-'''>ls -l | grep rubygem'''
+```
+>|ls -l | grep rubygem
+```
 "Where is this thing?!? How do I search directories again?"
 
 
